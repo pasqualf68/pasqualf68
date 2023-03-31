@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pasqualf68
 - 👀 I’m interested in boardgaming, comics, and fiction
-- 🌱 I’m currently learning Azure Cloud Data Platforms
+- 🌱 I’m currently learning Azure, AWS and Google Cloud Data Platforms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
